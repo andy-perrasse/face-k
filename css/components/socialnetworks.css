@@ -1,0 +1,15 @@
+.list-inline{
+	list-style: none;
+	padding : 10px;
+}
+.list-inline li{
+	display: inline;
+	padding: 70px;
+}
+.list-inline i{
+	font-size: 50px;
+	color: #ec9e40;
+}
+.list-inline i:hover{
+	color: grey;
+}
